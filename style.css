@@ -1,0 +1,10 @@
+image {
+    width:200px;
+}
+button {
+    width:40px;
+    font-size: medium;
+    background-color: blue;
+    color:white;
+    font-family: fantasy;
+}
